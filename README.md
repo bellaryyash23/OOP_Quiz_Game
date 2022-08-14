@@ -9,3 +9,5 @@ Created a quiz game with the project distributed into different files and implem
 All this is implemented by the use of QuizzBrain class and its correspoding methods.
 
 👉The main.py brings all this code into action by importing and exporting data and arguments within the above mentioned classes.
+
+[![Run on Repl.it](https://replit.com/badge/github/bellaryyash23/OOP_Quiz_Game)](https://replit.com/new/github/bellaryyash23/OOP_Quiz_Game)
